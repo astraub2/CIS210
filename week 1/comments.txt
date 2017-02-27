@@ -1,0 +1,10 @@
+-2: file names must match project guidelines; no camelCase 
+
+alphacode.py
+-4: run_tests() should have been removed/commented out
+-5: output line inconsistent with project guidelines; additional line is printed
+
+drawflower.py
+-4: TabError prevents code from running properly on the command line
+
+The code is good; in the future, make sure your code runs properly on the command line before submitting.
